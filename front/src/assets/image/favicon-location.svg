@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 地图标记底色 -->
+  <path d="M16 2C10.477 2 6 6.477 6 12C6 18.623 16 30 16 30C16 30 26 18.623 26 12C26 6.477 21.523 2 16 2Z" fill="#FF5722"/>
+  
+  <!-- 标记内圆 -->
+  <circle cx="16" cy="12" r="5" fill="#FBE9E7"/>
+  
+  <!-- 标记内装饰 - 简化的指南针 -->
+  <path d="M16 8L17.5 12H14.5L16 8Z" fill="#D84315"/>
+  <path d="M16 16L14.5 12H17.5L16 16Z" fill="#D84315"/>
+  <path d="M12 12L16 10.5V13.5L12 12Z" fill="#D84315"/>
+  <path d="M20 12L16 13.5V10.5L20 12Z" fill="#D84315"/>
+  
+  <!-- 中心点 -->
+  <circle cx="16" cy="12" r="1" fill="#D84315"/>
+</svg> 

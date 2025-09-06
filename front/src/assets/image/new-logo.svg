@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 太阳 -->
+  <circle cx="140" cy="60" r="30" fill="#FFD700"/>
+  <circle cx="140" cy="60" r="40" stroke="#FFD700" stroke-width="2" stroke-opacity="0.6"/>
+  <circle cx="140" cy="60" r="50" stroke="#FFD700" stroke-width="1.5" stroke-opacity="0.3"/>
+  
+  <!-- 椰子树 -->
+  <path d="M100 160V80" stroke="#3A5E3A" stroke-width="10" stroke-linecap="round"/>
+  
+  <!-- 树叶 -->
+  <path d="M100 80C100 80 80 50 60 65C40 80 70 95 100 80" fill="#4CAF50"/>
+  <path d="M100 80C100 80 120 50 140 65C160 80 130 95 100 80" fill="#4CAF50"/>
+  <path d="M100 90C100 90 70 70 55 90C40 110 75 115 100 90" fill="#4CAF50"/>
+  <path d="M100 90C100 90 130 70 145 90C160 110 125 115 100 90" fill="#4CAF50"/>
+  
+  <!-- 沙滩 -->
+  <path d="M30 160C30 160 60 140 100 160C140 180 170 160 170 160V200H30V160Z" fill="#F9E79F"/>
+  
+  <!-- 海浪 -->
+  <path d="M30 180C30 180 50 170 70 180C90 190 110 170 130 180C150 190 170 180 170 180" stroke="#3498DB" stroke-width="3" stroke-linecap="round"/>
+  <path d="M30 190C30 190 50 180 70 190C90 200 110 180 130 190C150 200 170 190 170 190" stroke="#3498DB" stroke-width="2" stroke-linecap="round"/>
+</svg> 
